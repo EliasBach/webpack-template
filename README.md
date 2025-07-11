@@ -23,7 +23,7 @@ Custom Scripts to be added to package.json:
   },
 
 Note: use npm run [command]
-Note 2: "deploy" assumes git branch "gh-pages"
+Note 2: "deploy" assumes git branch "gh-pages" with file dist added
 
 Based on:
 * https://www.theodinproject.com/lessons/javascript-webpack
